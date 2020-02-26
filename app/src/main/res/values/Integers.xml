@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="flip_duration">1500</integer>
+    <integer name="flip_textview_ans_duration">1000</integer>
+    <integer name="flip_duration_half">750</integer>
+</resources>
