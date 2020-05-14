@@ -5,9 +5,7 @@
 
 
 ![](https://img.shields.io/badge/version-1.0.1-green.svg)
-### 💻[Google Play](https://play.google.com/store/apps/details?id=com.tolunaykandirmaz.mywords "Google Play")
-
-
+### 💻 &nbsp; [Get It From Google Play Store](https://play.google.com/store/apps/details?id=com.tolunaykandirmaz.mywords "Get It From Google Play Store")
 ------------
 
 
@@ -30,6 +28,12 @@ The application is not dependent on any language. You can memorize words using t
 
 ![](https://github.com/tolunaykan/MyWords-Learn-Language-Android-App/blob/master/MyWords.gif?raw=true)
 ------------
+
+## Technologies I used
+- SQLite
+- [Volley](https://github.com/google/volley "Volley")
+- [Picasso](https://github.com/square/picasso "Picasso")
+
 ## Developer
 - Tolunay Kandırmaz
 ###### [LinkedIn](https://www.linkedin.com/in/tolunay-kand%C4%B1rmaz-12a734158/ "LinkedIn")
